@@ -1,0 +1,3 @@
+C:\Users\Фёдор\Documents\3DSunPose\Assets\Scripts\SunPos.dll
+D:\Visual Studio 2012\Projects\SunPos\SunPos\obj\Release\SunPos.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2012\Projects\SunPos\SunPos\obj\Release\SunPos.dll

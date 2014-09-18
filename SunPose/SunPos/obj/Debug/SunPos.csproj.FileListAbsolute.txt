@@ -1,0 +1,7 @@
+D:\Visual Studio 2012\Projects\SunPos\SunPos\bin\Debug\SunPos.dll
+D:\Visual Studio 2012\Projects\SunPos\SunPos\bin\Debug\SunPos.pdb
+D:\Visual Studio 2012\Projects\SunPos\SunPos\obj\Debug\SunPos.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2012\Projects\SunPos\SunPos\obj\Debug\SunPos.dll
+D:\Visual Studio 2012\Projects\SunPos\SunPos\obj\Debug\SunPos.pdb
+C:\Users\Фёдор\Documents\SunPose\Assets\Scripts\SunPos.dll
+C:\Users\Фёдор\Documents\SunPose\Assets\Scripts\SunPos.pdb
